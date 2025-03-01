@@ -2,7 +2,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "kitanar.us.to"; // Ganti dengan domain utama kalian
-const serviceName = "nautica"; // Ganti dengan nama workers kalian
+const serviceName = "nauticas"; // Ganti dengan nama workers kalian
 const apiKey = "145facab87aaa6236f418064e0d32270cf47e"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "ff.zefox60@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "75543b7effc482e8fc9b45899b44d359"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
